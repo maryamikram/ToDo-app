@@ -1,0 +1,56 @@
+body{
+    text-align: center;
+    padding-top: 200px;
+    background-image: url(images/image1.jpg);
+}
+
+ul{
+    list-style: none;
+}
+
+input{
+    width: 600px;
+    height: 60px;
+    border: black 3px;
+    border-style: ridge;
+    border-radius: 10px;
+   font-size: 25px;
+   font-weight: 70;
+}
+button{
+    width: 200px;
+    height: 50px;
+    border: black 3px;
+    border-style: ridge;
+    border-radius: 10px;
+    margin: 4px;
+    font-style: italic;
+    font-weight: 50;
+    font-size: 25px;
+    background-color:rgb(42, 126, 42) !important;
+   color: silver !important;
+}
+
+.btn {
+   float: right;
+   background-color:rgb(42, 126, 42) !important;
+   color: silver !important;
+   margin-right: 100px;
+}
+
+.listitems{
+    background-color:rgb(236, 236, 195);
+    font-size: 50px;
+    font-weight: 300;
+    width: 100%;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+}
+.input2{
+    width: 300px;
+    height: 50px;
+    border: black 3px;
+    border-style: ridge;
+    border-radius: 10px;
+   font-size: 20px;
+   font-weight: 50;
+}
